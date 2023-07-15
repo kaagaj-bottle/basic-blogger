@@ -1,0 +1,3 @@
+[submodule "blogger-backend"]
+	path = blogger-backend
+	url = https://github.com/kaagaj-bottle/blogger-backend.git
